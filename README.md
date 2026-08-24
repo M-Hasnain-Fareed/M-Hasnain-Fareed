@@ -4,13 +4,6 @@
 
 ### AI/ML, Data Analytics & Automation Enthusiast | BS Artificial Intelligence Student & Intern at Pak Logics
 
-<a href="www.linkedin.com/in/hasnain-fareed" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:hasnainfareed555@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-
 </div>
 
 ---
