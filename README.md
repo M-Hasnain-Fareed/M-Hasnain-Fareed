@@ -9,7 +9,7 @@
 ---
 
 ### 🔭 About Me
-* 🌱 I’m currently a 6th-semester BS Artificial Intelligence student at the **University of Management and Technology (UMT), Lahore** (GPA: 3.17/4.0)
+* 🌱 I’m currently a 6th-semester BS Artificial Intelligence student at the **University of Management and Technology (UMT), Lahore** (GPA: 3.22/4.0)
 * 💼 Gaining hands-on industry experience as an **AI/ML Intern at Pak Logics**, focusing on backend development with FastAPI, Generative AI, RAG, and n8n automation
 * 💻 Working freelance on **Upwork** as an AI Automation Freelancer, building n8n workflows, LLM integrations, and data pipelines.
 * 🎯 Actively planning and preparing for **Master’s programs in AI/DS** for Fall 2027.
